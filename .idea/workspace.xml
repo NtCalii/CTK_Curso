@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1ff6206-f74c-4dd9-8e00-43e5279b785d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +40,8 @@
     "Python.Aula05.executor": "Run",
     "Python.Aula06.executor": "Run",
     "Python.Aula07.executor": "Run",
+    "Python.Aula08.executor": "Run",
+    "Python.Aula09.executor": "Run",
     "Python.Aula1.executor": "Run",
     "Python.Aula2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
