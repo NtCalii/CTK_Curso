@@ -12,6 +12,9 @@ janela.resizable(width=False, height=False) # bloquear a mudanças de dimensão 
 
 '''Button (Botão)''' # aula 12
 
+def evento():
+    pass
 
+btn = ctk.CTkButton(janela, text="Botão aqui", command=evento).pack() # para criar o botão
 
 janela.mainloop() # inicializa a janela
