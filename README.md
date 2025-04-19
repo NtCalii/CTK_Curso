@@ -19,10 +19,23 @@ usando Python.
   - Inputs e caixas de texto
   - Tabelas e mais!
 
-## 🧱 Tecnologias utilizadas
+## 🤝 Contribuições
 
-- [Python 3.x](https://www.python.org/)
-- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-- [Tkinter (incluso no Python)]
+Contribuições são bem-vindas! Sinta-se à vontade para:
 
+✨ **Como contribuir:**
+- 🐛 **Reportar problemas:** Encontrou um bug? Abra uma [issue](https://github.com/NtCalii/Exercícios_Python/issues) detalhando o problema
+- 💡 **Sugerir melhorias:** Tem ideias para otimizar algum código? Compartilhe!
+- 🧠 **Novas abordagens:** Resolveu um exercício de forma diferente? Envie um pull request
+- 📝 **Correções:** Identificou erros de digitação ou documentação? Ajude a corrigir
 
+---
+
+<div align="center">
+  
+Feito por **[Nathan Caliani](https://github.com/NtCalii)**  
+
+🙏 Agradecimentos especiais ao professor do canal **setprogramacao** no youtube pelo excelente conteúdo!
+<br>
+
+</div>
