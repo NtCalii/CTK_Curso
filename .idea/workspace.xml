@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1ff6206-f74c-4dd9-8e00-43e5279b785d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eldrin.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,9 @@
     "Python.Aula11.executor": "Run",
     "Python.Aula13.executor": "Run",
     "Python.Aula14.executor": "Run",
+    "Python.Aula15.executor": "Run",
+    "Python.Aula16.executor": "Run",
+    "Python.Aula17.executor": "Run",
     "Python.Aula2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

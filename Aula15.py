@@ -10,6 +10,11 @@ janela.maxsize(width=700, height=400) # tamanho max
 janela.minsize(width=700, height=400) # tamanho min
 janela.resizable(width=False, height=False) # bloquear a mudanças de dimensão do usuário
 
-''' ''' # aula 15
+'''SegmentButton (Botão de Seguimento)''' # aula 15
+
+def btnf():
+    pass
+
+btn = ctk.CTkSegmentedButton(janela, values=["Tkinter", "Django", "Flask"], command=btnf).pack() # para criar o botão
 
 janela.mainloop() # inicializa a janela

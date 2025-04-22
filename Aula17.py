@@ -10,6 +10,10 @@ janela.maxsize(width=700, height=400) # tamanho max
 janela.minsize(width=700, height=400) # tamanho min
 janela.resizable(width=False, height=False) # bloquear a mudanças de dimensão do usuário
 
-''' ''' # aula 17
+'''CheckBox''' # aula 17
+
+check_var = ctk.StringVar(value="off") # começa no off
+
+box = ctk.CTkCheckBox(janela, text="CheckBox", variable=check_var, onvalue="on", offvalue="off").pack() # cria a caixa
 
 janela.mainloop() # inicializa a janela
